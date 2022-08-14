@@ -18,23 +18,24 @@ Workshop
 His domain knowledge covers Remittance Management, Stipend Management for CBT, Payroll System, HR Management, Microfinance, Real Estate Management, Matrimonial System Development, Agricultural Survey, Letter Tracking, Web Services for Payment System( i.e, Intel Express, iAuthorized.Net, PayPal, xoom, western union, world remit, Trans fast spain,western union,moneygram,bKash wallet)
 
 I am expert in following Technologies
-ASP.NET
+ASP.NET,
 MVC
 C#,
-React.js
-JavaScript
-JSON
-WebAPI
+React.js,
+JavaScript,
+JSON,
+WebAPI,
 SOAP,
-WSDL
-HTML
-CSS
-Bootstrap
+WSDL,
+HTML,
+CSS,
+Bootstrap,
 PL/SQL,
-Oracle
-MySQL
-MSSQL
-NodeJS
+Oracle,
+MySQL,
+NodeJS,
+Ajax,
+python
 <!---
 munirulewu/munirulewu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
