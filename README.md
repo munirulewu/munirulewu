@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email me at munirul032@gmail.com 
 
-14+ years of extensive experiences in Designing Solution Architecture, Requirement Analysis, Development, API integration and Implementation of business applications in client server technology and file server technology with an exposure to different platforms and software systems, Experiences in managing large IT team. Developed multiple software for SIBL which are using to collect/ disburse utility bills/remittance amounted 125 million USD/yearly. Successfully Integrated 30+ Utility/Remittance Application with core banking system.
+16+ years of extensive experiences in Designing Solution Architecture, Requirement Analysis, Development, API integration and Implementation of business applications in client server technology and file server technology with an exposure to different platforms and software systems, Experiences in managing large IT team. Developed multiple software for SIBL which are using to collect/ disburse utility bills/remittance amounted 125 million USD/yearly. Successfully Integrated 30+ Utility/Remittance Application with core banking system.
 
 His recent developed product Insta Remit in Social Islami Bank Limited(SIBL) received Bangladesh Innovation Award 2022 in the category of "Best Innovation-Finance Innovation in Banks" awarded by Bangladesh Innovation Conclave at a ceremony held at Le Meridian on 6th March 2022.
 
